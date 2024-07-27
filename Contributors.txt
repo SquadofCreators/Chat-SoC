@@ -1,0 +1,9 @@
+Contributors
+Project Name: Chat SoC
+
+Praveenkumar S
+Role: Front-end Developer & Python Developer
+
+Sibi Siddharth S
+Role: Front-end Developer & Python Developer
+
