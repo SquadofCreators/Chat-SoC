@@ -1,9 +1,8 @@
 # ChatSoC - MiniProject
 
-An AI powered chatbot developed by Team SquadofCreators as a 2nd Year Mini Project in ML.
+An AI powered chatbot developed by Team SquadofCreators as Mini Project in ML.
 
-Make sure to Generate Your Own API Key
-
+Make sure to Generate Your Own API Key.
 
 
 # ChatSoC
@@ -11,10 +10,19 @@ Make sure to Generate Your Own API Key
 ## Contributors
 
 **Praveenkumar S**
-- **Role:** Front-end Developer & Python Developer
+- **Role :** Front-end Developer & Python Developer
 
 **Sibi Siddharth S**
-- **Role:** Front-end Developer & Python Developer
+- **Role :** Front-end Developer & Python Developer
+
+**Srinivasan R**
+- **Role :** Python Developer
+
+**Surya B**
+- **Role :** Documentation & Requirement Analysis
+
+**Arivumani A**
+- **Role :** Documentation & Testing
 
 
 
